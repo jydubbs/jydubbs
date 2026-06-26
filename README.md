@@ -1,6 +1,6 @@
 ## Hi there, I'm Janice 👋
 
-Current: ** 🎓 MSc Bioinformatics @ Queen Mary University of London **
+Current: **🎓 MSc Bioinformatics @ Queen Mary University of London**
 - Individual research project: Integrating single-cell proteomics and single-cell transcriptomics to investigate airway epithelial remodelling in asthma
 
 I am a molecular biologist working at the intersection of molecular biology and bioinformatics, with a background in **biomedical sciences** and **genomic medicine**. My previous research has spanned **tuberculosis**, **asthma**, and the **biology of ageing**, and I’m now focusing on computational genomics, reproducible analysis pipelines, and AI-driven biological data analysis.
