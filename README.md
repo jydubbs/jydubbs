@@ -49,11 +49,16 @@ Tools: Linux • Git • GitHub • Slurm HPC
 * Retrieval-Augmented Generation (RAG)
 * Cloud-native bioinformatics workflows
 
+## Github Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jydubbs&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jydubbs&layout=compact)
+
 ### Connect with Me
 
-Linkedin: https://www.linkedin.com/in/janice-yc-wong/
-
-Email: janiceycwong001@gmail.com
+Linkedin:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Janice%20Wong-blue?logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/janice-yc-wong/))
+Email:
+[![Email](https://img.shields.io/badge/Email-janiceycwong001@gmail.com-red?logo=gmail)](mailto:janiceycwong001@gmail.com)
 
 ### ⚡ Fun Fact & Outside the Lab
 I enjoy matcha, board games, tennis and bouldering.
