@@ -41,15 +41,15 @@ Bioinformatics: Nextflow • DESeq2 • HISAT2 • SAMtools • featureCounts
 
 Tools: Linux • Git • GitHub • Slurm HPC
 
-## 🌱 Currently Learning
+## Currently Learning
 
-- Multi-modal integration
-- Large Language Models (LLMs) for bioinformatics
-- Machine learning for omics data
-- Retrieval-Augmented Generation (RAG)
-- Cloud-native bioinformatics workflows
+* Multi-modal integration
+* Large Language Models (LLMs) for bioinformatics
+* Machine learning for omics data
+* Retrieval-Augmented Generation (RAG)
+* Cloud-native bioinformatics workflows
 
-### 📫 Connect with Me
+### Connect with Me
 
 Linkedin: https://www.linkedin.com/in/janice-yc-wong/
 
