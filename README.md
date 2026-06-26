@@ -59,4 +59,4 @@ Tools: Linux • Git • GitHub • Slurm HPC
 [![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janiceycwong001@gmail.com)
 
 ## ⚡ Fun Fact & Outside the Lab
-I enjoy matcha, board games, tennis and bouldering.
+I love cats, and enjoy matcha, board games, tennis and bouldering.
