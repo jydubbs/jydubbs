@@ -5,7 +5,7 @@ Current: **🎓 MSc Bioinformatics @ Queen Mary University of London**
 
 I am a molecular biologist working at the intersection of molecular biology and bioinformatics, with a background in **biomedical sciences** and **genomic medicine**. My previous research has spanned **tuberculosis**, **asthma**, and the **biology of ageing**, and I’m now focusing on computational genomics, reproducible analysis pipelines, and AI-driven biological data analysis.
 
-### Interested in
+## Interested in
 
 🧬 Bioinformatics
 
@@ -18,22 +18,22 @@ I am a molecular biologist working at the intersection of molecular biology and 
 💊 Precision Medicine
 
 
-### Currently Working On
+## Currently Working On
 
 🤖 LLM-powered bioinformatics assistants
 
-### Featured Projects
+## Featured Projects
 
-#### 🧬 [RNA-seq Nextflow Pipeline](https://github.com/jydubbs/rna-seq-pipeline-nextflow)
+### 🧬 [RNA-seq Nextflow Pipeline](https://github.com/jydubbs/rna-seq-pipeline-nextflow)
 End-to-end RNA-seq workflow using Nextflow, HISAT2, featureCounts and DESeq2 on a Slurm HPC cluster.
 
-#### 🧬 [Directed Evolution Web Portal](https://github.com/jydubbs/Direct-Evolution-Monitoring-Web-Portal)
+### 🧬 [Directed Evolution Web Portal](https://github.com/jydubbs/Direct-Evolution-Monitoring-Web-Portal)
 Developed the experimental staging pipeline for validating plasmid sequences, identifying ORFs and matching them to UniProt reference proteins.
 
-#### 🤖 RNA-seq AI Assistant (coming soon)
+### 🤖 RNA-seq AI Assistant (coming soon)
 An LLM-powered assistant that interprets RNA-seq differential expression results and explains biological findings through natural language.
 
-### Skills
+## Skills
 
 Programming: Python • R • SQL • Bash
 
@@ -53,12 +53,10 @@ Tools: Linux • Git • GitHub • Slurm HPC
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jydubbs&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jydubbs&layout=compact)
 
-### Connect with Me
+## Connect with Me
 
-Linkedin:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Janice%20Wong-blue?logo=linkedin)]([https://www.linkedin.com/in/janice-yc-wong/])
-Email:
-[![Email](https://img.shields.io/badge/Email-janiceycwong001@gmail.com-red?logo=gmail)](mailto:janiceycwong001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/janice-yc-wong/)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janiceycwong001@gmail.com)
 
-### ⚡ Fun Fact & Outside the Lab
+## ⚡ Fun Fact & Outside the Lab
 I enjoy matcha, board games, tennis and bouldering.
