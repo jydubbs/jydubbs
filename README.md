@@ -56,7 +56,7 @@ Tools: Linux • Git • GitHub • Slurm HPC
 ### Connect with Me
 
 Linkedin:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Janice%20Wong-blue?logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/janice-yc-wong/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Janice%20Wong-blue?logo=linkedin)]([https://www.linkedin.com/in/janice-yc-wong/])
 Email:
 [![Email](https://img.shields.io/badge/Email-janiceycwong001@gmail.com-red?logo=gmail)](mailto:janiceycwong001@gmail.com)
 
