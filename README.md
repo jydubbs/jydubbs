@@ -27,7 +27,7 @@ I am a molecular biologist working at the intersection of molecular biology and 
 #### 🧬 [RNA-seq Nextflow Pipeline](https://github.com/jydubbs/rna-seq-pipeline-nextflow)
 End-to-end RNA-seq workflow using Nextflow, HISAT2, featureCounts and DESeq2 on a Slurm HPC cluster.
 
-#### 🧬 [Directed Evolution Web Portal](https://github.com/jydubbs/directed-evolution-monitoring-web-portal)
+#### 🧬 [Directed Evolution Web Portal](https://github.com/jydubbs/Direct-Evolution-Monitoring-Web-Portal)
 Developed the experimental staging pipeline for validating plasmid sequences, identifying ORFs and matching them to UniProt reference proteins.
 
 #### 🤖 RNA-seq AI Assistant (coming soon)
