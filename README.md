@@ -51,9 +51,6 @@ Tools: Linux • Git • GitHub • Slurm HPC
 * Retrieval-Augmented Generation (RAG)
 * Cloud-native bioinformatics workflows
 
-## Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jydubbs&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jydubbs&layout=compact)
 
 ## Connect with Me
 
