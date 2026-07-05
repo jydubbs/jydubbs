@@ -30,8 +30,9 @@ End-to-end RNA-seq workflow using Nextflow, HISAT2, featureCounts and DESeq2 on 
 ### 🧬 [Directed Evolution Web Portal](https://github.com/jydubbs/Direct-Evolution-Monitoring-Web-Portal)
 Developed the experimental staging pipeline for validating plasmid sequences, identifying ORFs and matching them to UniProt reference proteins.
 
-### 🤖 AI-assisted Multimodal Target Prioritisation Platform (coming soon)
-An LLM-powered assistant that integrates scRNA-seq, proteomics, GWAS, spatial transcriptomics, literature, and target prioritisation to aid better understanding of disease-associated biological pathways.
+### 🤖 [AI-assisted Multimodel Target Prioritisation](https://github.com/jydubbs/ai-multimodal-target-prioritisation)
+An LLM-powered assistant platform for integrating heterogenous biological datasets such as RNA-seq, proteomics, GWAS, and spatial transcriptomics, to prioritise disease gene, pathways, and therapeutic targets.
+
 
 ## Skills
 
