@@ -32,6 +32,7 @@ Developed the experimental staging pipeline for validating plasmid sequences, id
 
 ### 🤖 [AI-assisted Multimodel Target Prioritisation](https://github.com/jydubbs/ai-multimodal-target-prioritisation)
 An LLM-powered assistant platform for integrating heterogenous biological datasets such as RNA-seq, proteomics, GWAS, and spatial transcriptomics, to prioritise disease gene, pathways, and therapeutic targets.
+*This project is under active development as a long-term research and software engineering project.*
 
 
 ## Skills
