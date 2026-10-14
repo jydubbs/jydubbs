@@ -34,6 +34,9 @@ Developed the experimental staging pipeline for validating plasmid sequences, id
 An LLM-powered assistant platform for integrating heterogenous biological datasets such as RNA-seq, proteomics, GWAS, and spatial transcriptomics, to prioritise disease gene, pathways, and therapeutic targets.
 **This project is under active development as a long-term research and software engineering project.**
 
+### 🧠 [Morning Whetstone](https://brain-whetstone.fun)
+A daily 10-minute thinking question to keep reasoning sharp in the AI era, on the web and by email at 7am. Built and deployed on Cloudflare Workers with a D1 database, scheduled jobs and Resend for email, on a custom domain with SPF/DKIM/DMARC.
+
 
 ## Skills
 
