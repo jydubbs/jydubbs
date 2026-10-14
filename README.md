@@ -46,6 +46,8 @@ Bioinformatics: Nextflow • DESeq2 • HISAT2 • SAMtools • featureCounts
 
 Tools: Linux • Git • GitHub • Slurm HPC
 
+Web: JavaScript • HTML/CSS • Cloudflare Workers • SQL (D1)
+
 ## Currently Learning
 
 * Multi-modal integration
