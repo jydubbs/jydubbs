@@ -35,7 +35,7 @@ An LLM-powered assistant platform for integrating heterogenous biological datase
 
 ## Built for Fun
 
-Small tools I built for myself to enforce better daily habits.
+Small tools I built for myself to enforce better daily habits. Feel free to try them out for yourself!
 
 ### 🐾 [Pocket Pet](https://github.com/jydubbs/desktop-pocket-pet)
 A desktop pet for Mac and Windows that hatches, grows and evolves as you tick off tiny daily habits, with 16 species, rare shinies, and a café where grown-up pets hang out. Built with Electron, with automated Mac and Windows builds through GitHub Actions.
